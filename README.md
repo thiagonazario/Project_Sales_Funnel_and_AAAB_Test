@@ -1,4 +1,4 @@
-# Estratégias de Conversão: Funil de Vendas e Avaliação A/A/B
+# Estratégias de Conversão: Funil de Vendas e Avaliação A/A/B 🚀🔍
 
 ## Descrição do Projeto
 
@@ -17,6 +17,7 @@ Cada entrada de diário representa uma ação do usuário ou um evento. Aqui est
 - **EventTimestamp**: Hora do evento.
 - **ExpId**: Número do experimento. Grupos de controle: 246 e 247; Grupo de teste: 248.
 
-## Status do README
+## 🚧 Status do Projeto 🚧
 
-Este README está atualmente em construção. Mais informações serão adicionadas em breve.
+Este projeto está atualmente em construção. Mais informações serão adicionadas em breve.
+
