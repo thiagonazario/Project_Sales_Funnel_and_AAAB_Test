@@ -21,3 +21,5 @@ Cada entrada de diário representa uma ação do usuário ou um evento. Aqui est
 
 Este projeto está atualmente em construção. Mais informações serão adicionadas em breve.
 
+
+![barras](https://github.com/thiagonazario/Project_Sales_Funnel_and_AAAB_Test/assets/140405708/3c70c23e-da25-4528-a4ea-2c21f988b0be)
